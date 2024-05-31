@@ -24,7 +24,7 @@ export default function DrugiDziobak() {
            height={600}
         ></Image>
           <Button className="m-2" asChild>
-            <Link href="/StronaGlowna">Strona Głowna</Link>
+            <Link href="/">Strona Głowna</Link>
           </Button>
           <Pagination className="m-2">
   <         PaginationContent>
